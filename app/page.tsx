@@ -373,18 +373,26 @@ export default function LandingPage() {
               <div>
                 <h4 className="font-medium mb-6 text-elegant-text">Community</h4>
                 <ul className="space-y-3">
-                  {["Discord Server", "Bewerbung", "Regelwerk", "Support"].map((link, index) => (
-                    <li key={index}>
-                      <Link
-                        href="#"
-                        className="text-elegant-text-muted hover:text-elegant-accent transition-colors duration-200"
-                      >
-                        {link}
-                      </Link>
-                    </li>
+                  {[
+                    { label: "Discord Server", href: "https://discord.gg/yeyUzTyySh" },
+                    { label: "Bewerbung", href: "#" },
+                    { label: "Regelwerk", href: "#" },
+                    { label: "Support", href: "#" },
+                  ].map((item, index) => (
+                      <li key={index}>
+                        <Link
+                            href={item.href}
+                            target={item.href.startsWith("http") ? "_blank" : undefined}
+                            rel={item.href.startsWith("http") ? "noopener noreferrer" : undefined}
+                            className="text-elegant-text-muted hover:text-elegant-accent transition-colors duration-200"
+                        >
+                          {item.label}
+                        </Link>
+                      </li>
                   ))}
                 </ul>
               </div>
+
 
               {/* Legal Links */}
               <div>
