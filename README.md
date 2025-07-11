@@ -50,8 +50,8 @@ und **nicht zur freien Nutzung** bestimmt.
 
 Bei Fragen oder Interesse an Storyline RP:
 
-➡️ Discord: [Discord](https://discord.gg/yeyUzTyySh)  
-➡️ Website & Bewerbung folgen bald
+➡️ Discord: [Storyline-RP](https://discord.gg/yeyUzTyySh)  
+➡️ Websiteerweiterungen & Bewerbung folgen bald
 
 ---
 
