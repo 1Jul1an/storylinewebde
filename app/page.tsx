@@ -334,7 +334,7 @@ export default function LandingPage() {
 
             {/* Info Badges */}
             <div className="flex flex-wrap justify-center gap-4">
-              {["Mindestalter: 18 Jahre", "Deutschsprachig", "Hardcore RP"].map((badge, index) => (
+              {["Mindestalter: 18 Jahre", "Deutschsprachig", "Authentisches RP"].map((badge, index) => (
                 <Badge
                   key={index}
                   variant="outline"
