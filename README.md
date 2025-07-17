@@ -32,7 +32,7 @@ Die Anwendung dient als **Landingpage**, Info-Hub und technisches Showcase für 
 |--------|---------------------------------------|--------------------------------------------------|
 | Julian | Frontend / UI/UX-Design & Architektur | [@1Jul1an](https://github.com/1Jul1an)           |
 | Felix  | Frontend / UI/UX-Design & Architektur | [@Flixxx-Felix](https://github.com/Flixxx-Felix) |
-
+| Daniel | Frontend / UI/UX-Design & Architektur | [@LuxlNET](https://github.com/LuxlNET)           |
 ---
 
 ## 📄 Lizenz & Nutzung
