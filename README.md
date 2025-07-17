@@ -26,6 +26,12 @@ Die Anwendung dient als **Landingpage**, Info-Hub und technisches Showcase für 
 
 ---
 
+## 🖼️ Screenshot
+
+<img width="2535" height="1280" alt="Storyline" src="https://github.com/user-attachments/assets/41731def-f8bd-4bd9-89aa-baca7b9ccfcc" />
+
+---
+
 ## 👤 Mitwirkende
 
 | Name   | Rolle                                 | GitHub                                           |
