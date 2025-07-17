@@ -28,7 +28,7 @@ Die Anwendung dient als **Landingpage**, Info-Hub und technisches Showcase für 
 
 ## 🖼️ Screenshot
 
-<img width="2535" height="1280" alt="Storyline" src="https://github.com/user-attachments/assets/41731def-f8bd-4bd9-89aa-baca7b9ccfcc" />
+<img width="2560" height="1307" alt="Storyline" src="https://github.com/user-attachments/assets/ef56344c-5fe3-4166-bf51-d51e9417515c" />
 
 ---
 
